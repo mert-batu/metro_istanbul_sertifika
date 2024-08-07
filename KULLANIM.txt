@@ -1,0 +1,15 @@
+#Program Hakkında
+ÖNEMLİ! PROGRAMI YÖNETİCİ OLARAK BAŞLATIN!
+Bu program sadece bu klasörün içindeki sertifika.docx ile uyumludur başka bir belge ile çalışmayacaktır.
+(Program ile belge oluşturduktan sonra oluşturulan belge tekrar kullanıma uygun değildir manuel olarak düzeltiniz.)
+Sertifikanın her zaman yedeği sertifika.zip'te durmaktadır bir sorun olursa değiştiriniz.
+Uyuglamanın her zaman yedeği Metro İstanbul - Sertifika Oluşturucu.zip'te durmaktadır bir sorun olursa değiştiriniz.
+
+#Programın İçeriği
+Programı başlattıktan sonra kullanım kılavuzunu mutlaka okuyunuz.
+
+#Programın İçindeki Belge Yolları Hakkında
+Belge konumları mutlaka şöyle olmalıdır: C:\Users\Mert Batu\Desktop\Sertifikalar veya C:/Users/Mert Batu/Desktop/Sertifikalar
+Bu tarz konumları kabul etmemektedir(Sadece klasörün adı yazan): Belgeler,İndirilenler,Resimler,Masaüstü --> Bunları yukarıdaki gibi yazmanız gerekmektedir.
+
+Herhangi bir sorunda Mert Batu Dirik ile görüşünüz.
